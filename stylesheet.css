@@ -1,0 +1,99 @@
+#main {
+	text-align: center;
+}
+
+nav {
+	text-align: right;
+	font-family: arial, sans-serif;
+	padding: 10px;
+	font-size: small;
+}
+
+#signin {
+	background-color: #4d90fe;
+	border-radius: 3px;
+	padding: 5px 10px;
+}
+
+#s2 {
+	color: #ffffff;
+	font-size: 15px;
+}
+
+#logo {
+	padding-top: 112px;
+	width: 269px;
+	height: 95px;
+}
+
+img {
+	margin: 15px;
+}
+
+#search {
+	width: 35em;
+	background-color: #fff;
+	border: 1px solid #e0e0e0;
+}
+
+.press {
+	text-decoration: none;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	height: 30px;
+	width: 100%;
+	border-top: 1px solid #e4e4e4;
+	background: none repeat scroll 0 0 #F2F2F2;
+	padding-top: 15px;
+}
+
+.lf {
+	margin-left: 20px;
+	font-family: arial, sans-serif;
+	text-decoration: none;
+}
+
+#left {
+	position: block;
+	float: left;
+	font-size: small;
+	text-align: left;
+
+
+}
+
+.rf {
+	margin-right: 20px;
+	font-family: arial, sans-serif;
+	text-decoration: none;
+}
+
+#right {
+	position: block;
+	text-align: right;
+	float: right;
+	font-size: small;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+button {
+	border: 1px solid #e0e0e0;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 10px;
+	margin: 12px 5px;
+	background-color: #f2f2f2;
+	border-radius: 3px;
+}
+
+.jj:hover {
+	box-shadow: -25px 0 25x 25px #000;
+}
